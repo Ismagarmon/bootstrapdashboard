@@ -52,3 +52,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+I'm using framework React in this proyect, so you'll need to have all the dependencies availible and [spline](https://spline.design/) tools.
+
+Info abour [React FrameWork](https://react.dev/).

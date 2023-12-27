@@ -10,10 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.3.3",
+    "@astrojs/check": "0.3.3",
+    "@radix-ui/react-slider": "1.1.2",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
     "astro": "4.0.7",
-    "react-bootstrap": "^2.9.2",
+    "clsx": "2.0.0",
+    "react-bootstrap": "2.9.2",
     "sass": "1.69.5",
+    "svelte": "4.0.0",
     "typescript": "5.3.3"
   }
 }

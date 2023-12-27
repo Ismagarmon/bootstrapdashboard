@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+import { Slider } from '../components/Slider';
 ---
 
 <Layout title="Welcome to Astro.">
@@ -33,6 +34,13 @@ import Card from '../components/Card.astro';
 				</linearGradient>
 			</defs>
 		</svg>
+		<Slider
+		defaultValue={[33]}
+		max={100}
+		step={0.1}
+		min={0}
+		
+		/>
 		<h1>Welcome to <span class="text-gradient">Astro</span></h1>
 		<p class="instructions">
 			To get started, open the directory <code>src/pages</code> in your project.<br />
